@@ -1,6 +1,7 @@
 # SharePoint HR Workflow Automation
-
+Built as part of a real-world workflow automation project using SharePoint and Power Automate.
 ## Workflow Diagram
+This diagram illustrates the automated onboarding workflow from employee creation to task completion.
 ![Workflow](Untitled Diagram.png)
 ## Overview
 This project automates employee onboarding and offboarding processes using SharePoint and Power Automate.
@@ -30,7 +31,10 @@ This project automates employee onboarding and offboarding processes using Share
 
 ## Workflow Diagram
 (Add your diagram image here)
-
+## Outcome
+- Reduced manual HR tasks
+- Improved workflow efficiency
+- Automated notifications and task tracking
 ## Screenshots
 (Add SharePoint and Power Automate screenshots here)
 
